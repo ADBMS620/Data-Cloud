@@ -1,44 +1,34 @@
 ---
-layout: article
-show_edit_on_github: false
-license: false
+layout: home
 title: Data Cloud
-aside:
-  toc: true
+permalink: /
+nav_order: 1
+---
+
+# Welcome to Data Cloud
+
+Your ultimate platform for mastering **Data Structure and Management**.
+
 ---
 
 ## About Data Cloud
 
-The Data Cloud platform provides students with essential skills to thrive in a data-driven world. The curriculum focuses on algorithmic thinking, computational paradigms, and an introduction to machine learning. Students will learn to apply algorithms and foundational machine learning techniques to solve real-world problems using data and computation.
+The Data Cloud platform provides students with essential skills to thrive in a data-driven world. The first half of the course emphasizes algorithmic thinking and computational paradigms, such as procedural programming, object-oriented design, and state machines. The second half introduces basic machine learning concepts for categorical and continuous data. Students will learn to apply algorithms and foundational machine learning techniques to solve real-world problems using data and computation.
 
+![Course Overview](/assets/images/home/course_overview.png)
 
-## Learning Objectives
+[Explore Learning Objectives](/learning_objectives)
 
-By the end of this course, students will:
+---
 
-- Analyze algorithm complexity in terms of computation time using Python.
-- Identify and solve recursive problems using Python.
-- Understand and design software using UML diagrams.
-- Apply and implement data structures using object-oriented programming.
-- Develop algorithms for linear regression and logistic regression.
-- Evaluate machine learning models using error metrics and confusion matrices.
-- Design and implement state machines with object-oriented paradigms.
-- Debug code effectively using print statements and other techniques.
+## Key Features
 
-See <a href='/lo/weekly'>Detailed Learning Objectives</a> for more information.
+- **Interactive Tutorials:** Learn data structures and algorithms step-by-step.
+- **Real-World Projects:** Tackle challenges inspired by real-world data.
+- **Comprehensive Resources:** Access curated study materials and references.
 
-## Text References
+---
 
-Course materials will be provided by instructors. Suggested references include:
+![Learning Map](/assets/images/home/data_cloud_concept_map.png)
 
-- [How to Think Like a Computer Scientist](https://runestone.academy/runestone/books/published/thinkcspy/index.html)
-- [Introduction to Algorithms by Cormen et al., MIT Press](https://ebookcentral.proquest.com/lib/sutd/detail.action?docID=3339142)
-- [An Introduction to Statistical Learning by James et al., Springer](https://sutd.primo.exlibrisgroup.com/permalink/65SUTD_INST/1gbmki4/cdi_askewsholts_vlebooks_9781461471387)
-- [Machine Learning: A Probabilistic Perspective by Murphy, MIT Press](https://ebookcentral.proquest.com/lib/sutd/detail.action?docID=3339490)
-
-## Instructional Methods and Expectations
-
-This course adopts a project-based and flipped-classroom strategy. Students are expected to complete pre-class activities and actively participate in class discussions and projects. Weekly mini-projects build toward a capstone project at the end.
-
-Class sessions involve hands-on programming and group problem-solving, supported by pre-readings and homework.
-
+[Start Exploring Now!](/course_overview)
