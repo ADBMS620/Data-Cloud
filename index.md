@@ -47,6 +47,3 @@ This course adopts a project-based and flipped-classroom strategy. Students are 
 
 Class sessions involve hands-on programming and group problem-solving, supported by pre-readings and homework.
 
-## Lesson Format
-
-![](/assets/images/home/lesson_format.png)
