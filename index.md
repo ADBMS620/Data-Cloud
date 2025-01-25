@@ -17,14 +17,6 @@ The Data Cloud platform provides students with essential skills to thrive in a d
 
 ![](/assets/images/home/data_cloud_concept_map.png)
 
-
-
-For Audit students to be considered pass, they need to achieve above 80% scores for the following assessments:
-
-- Mini Projects
-- Cohort Sessions and Homeworks
-- Pre-Class Activities
-
 ## Learning Objectives
 
 By the end of this course, students will:
