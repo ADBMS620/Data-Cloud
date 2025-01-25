@@ -1,8 +1,100 @@
-title: data structure
-description: 
-theme: just-the-docs
+# Welcome to Jekyll!
+# Configuration for "Data Cloud" site using the "Just the Docs" template.
 
-url: https://datastructure.github.io
+## => Site Settings
+##############################
+text_skin_alt: "default" # Keeping default for consistency with "Just the Docs"
+highlight_theme_alt: "tomorrow-night" # Alternate syntax highlighting theme
+text_skin: "default" # "default" (default), matches the template style
+highlight_theme: "tomorrow" # Primary syntax highlighting theme
+title: Data Cloud
+baseurl: "" # Leave empty for root directory deployment
+description: >
+  Welcome to the Data Cloud website! Explore and learn from structured and actionable data insights.
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+## => Language and Timezone
+##############################
+lang: en # Default language is English
+
+timezone: UTC # Specify a timezone if needed (e.g., "Asia/Singapore")
+
+
+
+## => GitHub Repository
+##############################
+repository: data cloud # GitHub repository hosting the site
+repository_tree: main # Default branch (update if necessary)
+
+## => Paths
+##############################
+paths:
+  root: / # Root URL (default)
+  home: / # Home layout URL (default)
+  archive: /archive.html # Archive page (optional for "Just the Docs")
+
+## => Post
+##############################
+excerpt_separator: <!--more-->
+license: CC-BY-4.0 # License for content (Creative Commons)
+
+## => Markdown Enhancements
+##############################
+mathjax: true # Enable MathJax for mathematical equations
+mermaid: true # Enable Mermaid for diagrams and flowcharts
+chart: true # Enable chart rendering
+
+## => Paginate
+##############################
+# Uncomment and set up pagination if needed:
+# paginate: 10
+# paginate_path: /page:num
+
+## => Comments
+##############################
+comments:
+  provider: false # Commenting is disabled (optional: "disqus", "gitalk")
+
+## => Search
+##############################
+search:
+  provider: default # Default search enabled in "Just the Docs"
+
+## => Build
+##############################
+markdown: kramdown
+highlighter: rouge
+permalink: pretty # Clean URLs without date
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - /node_modules
+  - /test
+
+## => Defaults
+##############################
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: default # Use the "default" layout from "Just the Docs"
+      show_edit_on_github: true # Display "Edit on GitHub" links
+
+## => Plugins
+##############################
+plugins:
+  - jekyll-feed # Generates RSS feed
+  - jekyll-sitemap # Generates sitemap
+  - jemoji # Enables emoji support
+
+# Note: This configuration assumes you are using the "Just the Docs" template.
+# Adjust any fields to further customize your site for "Data Cloud".
+
+
+
+
+
+
