@@ -11,11 +11,6 @@ aside:
 
 The Data Cloud platform provides students with essential skills to thrive in a data-driven world. The curriculum focuses on algorithmic thinking, computational paradigms, and an introduction to machine learning. Students will learn to apply algorithms and foundational machine learning techniques to solve real-world problems using data and computation.
 
-![](/assets/images/home/course_overview.png)
-
-<br>
-
-![](/assets/images/home/data_cloud_concept_map.png)
 
 ## Learning Objectives
 
