@@ -1,20 +1,14 @@
-source 'https://rubygems.org'
+source "https://rubygems.org"
 
-# Jekyll core gem
-gem "jekyll", "~> 4.3.4" # Installed by `gem jekyll`
+# Jekyll core and theme
+gem "jekyll", "~> 4.3.4"
+gem "just-the-docs", "~> 0.10.1"
 
-# Jekyll theme - Just the Docs
-gem "just-the-docs", "0.10.1" # Pinned to the current release
-# gem "just-the-docs"         # Uncomment for always downloading the latest release
+# Dependencies
+gem "jekyll-feed", "~> 0.15" # RSS feed support
+gem "jekyll-sitemap", "~> 1.4" # Sitemap generation
+gem "jemoji", "~> 0.12" # Emoji support
 
-# Plugin for generating RSS feeds
-gem "jekyll-feed"
-
-# Plugin for generating sitemap.xml
-gem "jekyll-sitemap"
-
-# Plugin for enabling emojis in Markdown
-gem "jemoji"
-
-# Optional: Uncomment if using Ruby >= 3 and Jekyll <= 4.2.2
-# gem "webrick"
+# For debugging and better compatibility
+gem "webrick", "~> 1.7" # Required for Ruby >= 3.0
+gem "bundler", "~> 2.4"
