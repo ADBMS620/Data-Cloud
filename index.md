@@ -9,6 +9,9 @@ nav_order: 1
 
 Your ultimate platform for mastering **Data Structure and Management**.
 
+[Start Exploring Now!](/course_overview)
+
+
 ---
 
 ## About Data Cloud
@@ -31,4 +34,3 @@ The Data Cloud platform provides students with essential skills to thrive in a d
 
 ![Learning Map](/assets/images/home/data_cloud_concept_map.png)
 
-[Start Exploring Now!](/course_overview)
