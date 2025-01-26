@@ -83,6 +83,13 @@ defaults:
       layout: default # Use the "default" layout from "Just the Docs"
       show_edit_on_github: true # Display "Edit on GitHub" links
 
+## => Assets and Custom Styles
+##############################
+assets:
+  css:
+    - /assets/css/custom.css # Path to your custom CSS file
+
+
 ## => Plugins
 ##############################
 plugins:
