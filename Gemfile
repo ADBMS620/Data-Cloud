@@ -4,7 +4,7 @@
 source "https://rubygems.org"
 
 # Jekyll gem for building the site
-gem "jekyll", "~> 4.3.4"
+gem "jekyll", "~> 4.4.0"
 
 # Just the Docs theme, pinned to version 0.10.1
 gem "just-the-docs", "= 0.10.1"
